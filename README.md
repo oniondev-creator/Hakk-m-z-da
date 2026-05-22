@@ -104,11 +104,11 @@ Onion Dev olarak hedefimiz:
 # 🤝 İletişim
 
 ## 🌍 Sosyal & Platformlar
-- Discord Community
-- GitHub
-- Tebex Store
-- CFX.re
-- Bionluk
+- [Discord Community](https://discord.gg/zVbVnubtSp)
+- [GitHub](https://bionluk.com/oniondevelopment)
+- [Tebex Store](https://onion-development.tebex.io/)
+- [CFX.re](https://forum.cfx.re/u/oniondev)
+- [Bionluk](https://bionluk.com/oniondevelopment)
 
 ---
 
